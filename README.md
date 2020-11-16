@@ -1,11 +1,18 @@
 # pong-app
 
-simple pong app</b>
-the players must access the link : https://pong-lara.herokuapp.com/</b></b>
+simple pong app
 
-controls: mouse moves the paddles</b>
-r -> reset game</b>
-esc-> play/pause game</b></b>
+the players must access the link : https://pong-lara.herokuapp.com
 
-first player to 12 wins</b>
-the game starts when both players are connected</b>
+
+controls: mouse moves the paddles
+
+r -> reset game
+
+esc-> play/pause game
+
+
+first player to 12 wins
+
+the game starts when both players are connected
+
